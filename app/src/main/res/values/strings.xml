@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CM_Proj</string>
+    <string name="biketrack">BikeTrack</string>
+    <string name="email_address">Email address</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="register">Register</string>
+</resources>
