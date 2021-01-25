@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "174438000891",
+    "firebase_url": "https://cm-auth-117cf-default-rtdb.firebaseio.com",
+    "project_id": "cm-auth-117cf",
+    "storage_bucket": "cm-auth-117cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174438000891:android:1618836bc25acf7e94e85e",
+        "android_client_info": {
+          "package_name": "com.example.cm_proj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174438000891-00ba4m8t1qbtgc2dibs1a4v19in5tuar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh13YqJUBymxNaVAc3bDerwJ8zIkmjCdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174438000891-00ba4m8t1qbtgc2dibs1a4v19in5tuar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174438000891:android:cd22be68bfad36df94e85e",
+        "android_client_info": {
+          "package_name": "pt.ua.cm.biketrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174438000891-00ba4m8t1qbtgc2dibs1a4v19in5tuar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh13YqJUBymxNaVAc3bDerwJ8zIkmjCdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174438000891-00ba4m8t1qbtgc2dibs1a4v19in5tuar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

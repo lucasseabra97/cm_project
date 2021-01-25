@@ -28,5 +28,10 @@
         android:name="pt.ua.cm.biketrack.ui.notifications.NotificationsFragment"
         android:label="@string/title_notifications"
         tools:layout="@layout/fragment_notifications" />
+    <fragment
+        android:id="@+id/navigation_login"
+        android:name="pt.ua.cm.biketrack.ui.login.LogInFragment"
+        android:label="Login"
+        tools:layout="@layout/fragment_login" />
 
 </navigation>
